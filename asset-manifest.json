@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/flavours/static/css/main.708e8ee3.css",
+    "main.js": "/flavours/static/js/main.6da2e87a.js",
+    "index.html": "/flavours/index.html",
+    "main.708e8ee3.css.map": "/flavours/static/css/main.708e8ee3.css.map",
+    "main.6da2e87a.js.map": "/flavours/static/js/main.6da2e87a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.708e8ee3.css",
+    "static/js/main.6da2e87a.js"
+  ]
+}
